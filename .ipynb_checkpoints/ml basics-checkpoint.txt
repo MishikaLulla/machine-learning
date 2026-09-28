@@ -1,0 +1,95 @@
+* Machine Learning
+
+Machine Learning is a subcategory of Artificial Intelligence
+It allows computers to learn from data and improve their performance without being directly programmed for every task
+In Machine Learning there are different algorithms that help the computer learn patterns from data and make predictions or decisions
+
+
+-------Types of Machine Learning
+
+There are mainly four types of Machine Learning
+
+1-----Supervised Learning
+
+In supervised learning the model learns from labelled data
+This means the input data already has the correct answer
+The model learns the relationship between input and output and then predicts the output for new data
+
+Example
+If we give the model pictures of cats and dogs with their names already given
+The model learns the difference between them and can identify whether a new picture is a cat or dog
+
+Examples of algorithms
+
+Linear Regression
+Decision Tree
+K Nearest Neighbors
+Support Vector Machine
+
+
+2------Unsupervised Learning
+
+
+In unsupervised learning the model learns from unlabelled data
+There is no predefined correct answer
+The model tries to find patterns groups or relationships in the data on its own
+
+Example
+If we give customer data to the model without telling it which customers belong to which group
+The model can automatically group customers with similar behaviour
+
+Example algorithm
+K Means Clustering
+
+3-------Reinforcement Learning
+
+In reinforcement learning the model learns by trial and error
+The model performs an action and receives a reward or penalty
+It learns which actions give better results and tries to improve its decisions
+
+Example
+A robot learning how to walk
+If it takes a correct step it gets a reward
+If it falls it gets a penalty
+Over time it learns the correct actions
+
+4--------Semi Supervised Learning
+
+Semi supervised learning uses a combination of labelled and unlabelled data
+Usually only a small amount of data is labelled while a large amount is unlabelled
+The model uses both types of data to learn
+
+Example
+Suppose we have 1000 images
+Only 100 images are labelled as cat or dog
+The remaining 900 images have no labels
+
+The model uses the labelled images along with the unlabelled images to improve its learning
+
+
+
+Supervised → Teacher gives answers
+
+Unsupervised → No answers, find patterns yourself
+
+Reinforcement → Learn through reward and penalty
+
+Semi supervised → Some answers + lots of data without answers
+
+
+
+
+-------Examples of Machine Learning algorithms include
+
+Linear Regression
+Decision Tree
+K Nearest Neighbors
+Support Vector Machine
+Naive Bayes
+Random Forest
+K Means Clustering
+
+--conclusion-
+AI is the bigger field
+Machine Learning is a part of AI
+Deep Learning is a part of Machine Learning
